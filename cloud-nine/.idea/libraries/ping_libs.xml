@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ping-libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/BOOT-INF/classes/com/pingidentity/lightning/ldapaccess" />
+      <root url="file://$PROJECT_DIR$/libs/BOOT-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/BOOT-INF/lib" recursive="false" />
+  </library>
+</component>
